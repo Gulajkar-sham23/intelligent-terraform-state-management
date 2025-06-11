@@ -1,6 +1,8 @@
 **AI-intelligent-terraform-state-management**
 ## Architecture Diagram:
-![1749642968080](https://github.com/user-attachments/assets/3eb1289f-152c-4b40-ae40-dc713d8f14e7)
+
+![state-lock](https://github.com/user-attachments/assets/25ac0d1d-af9c-4bbf-afef-c8d2bfbb48a3)
+
 
 
 This project demonstrates intelligent state handling for Terraform using AI Agents, AWS S3, and DynamoDB.
